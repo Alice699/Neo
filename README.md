@@ -4,6 +4,8 @@ Neo is a polished Shelby media vault dApp for creators, builders, and communitie
 
 The project is designed as a high-end community MVP: real Shelby SDK integration, wallet-aware upload flows, local vault records, network switching, and a production-minded interface with light and dark themes.
 
+![Neo Shelby media vault dashboard](docs/neo-vault.png)
+
 ## What Neo Does
 
 - Connects to Aptos-compatible wallets through the Aptos Wallet Adapter.
